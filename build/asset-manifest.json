@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react_st1/static/css/main.4d84c115.css",
+    "main.js": "/react_st1/static/js/main.d3e190a7.js",
+    "static/media/Banner.png": "/react_st1/static/media/Banner.6c598e47f2d7184b6af7.png",
+    "static/media/LinesGraph.png": "/react_st1/static/media/LinesGraph.7d58635693f05a81ee86.png",
+    "static/media/Graph2.png": "/react_st1/static/media/Graph2.68df4f3d2a14106c0ed7.png",
+    "static/media/Graph1.png": "/react_st1/static/media/Graph1.7cc001ba01ca5fab50b7.png",
+    "static/media/employee-default.svg": "/react_st1/static/media/employee-default.7d6259ddb6a7341dd4a87e08a455bf6b.svg",
+    "static/media/cart.svg": "/react_st1/static/media/cart.48f404777c1adebfe98d61a6f09a5ca5.svg",
+    "static/media/line-default.svg": "/react_st1/static/media/line-default.09b3f4a059fac1b4a85bd7c1c79e092c.svg",
+    "static/media/hamburger.svg": "/react_st1/static/media/hamburger.f283078499a8e9e5a404c9bcc2923ebf.svg",
+    "static/media/bell-notification.svg": "/react_st1/static/media/bell-notification.ccf836998a80aeb7c7634c65c2d4a1d8.svg",
+    "static/media/e-commerce-default.svg": "/react_st1/static/media/e-commerce-default.8d13d924641c641ab441c1ff1ee95143.svg",
+    "static/media/message.svg": "/react_st1/static/media/message.ecfca2a3974b86f0a859732c7fc66e62.svg",
+    "static/media/cross.svg": "/react_st1/static/media/cross.7e44b2dada77f6b99d165944adb9b138.svg",
+    "index.html": "/react_st1/index.html",
+    "static/media/dropdown-arrow.svg": "/react_st1/static/media/dropdown-arrow.f5f4f38c0197f8c0dd11dd3481242a10.svg",
+    "main.4d84c115.css.map": "/react_st1/static/css/main.4d84c115.css.map",
+    "main.d3e190a7.js.map": "/react_st1/static/js/main.d3e190a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d84c115.css",
+    "static/js/main.d3e190a7.js"
+  ]
+}
